@@ -39,7 +39,7 @@
 					<v8:content>Контроль проведения</v8:content>
 				</v8:item>
 			</Synonym>
-			<Comment>Запрет/Разрешение проведения документа по условию</Comment>
+			<Comment>Запрет/Разрешение проведения документа по условию (ITT_94)</Comment>
 			<ConfigurationExtensionPurpose>AddOn</ConfigurationExtensionPurpose>
 			<ObjectBelonging>Adopted</ObjectBelonging>
 			<KeepMappingToExtendedConfigurationObjectsByIDs>true</KeepMappingToExtendedConfigurationObjectsByIDs>
