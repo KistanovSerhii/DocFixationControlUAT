@@ -72,6 +72,7 @@
 			<CommonModule>КП_ОбработчикПодпискиНаСобытиеОбщий</CommonModule>
 			<EventSubscription>КПроведения_уатПутевойЛист</EventSubscription>
 			<Catalog>ВидыРаботСотрудников</Catalog>
+			<Catalog>КонтрольПроведенияНастройкаРасширения</Catalog>
 			<Document>уатПутевойЛист</Document>
 		</ChildObjects>
 	</Configuration>
